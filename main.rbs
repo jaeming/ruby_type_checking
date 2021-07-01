@@ -1,0 +1,5 @@
+class Foo
+  attr_reader name: String
+  def initialize: (String name) -> String
+  def hello: (String title) -> String
+end
